@@ -25,7 +25,7 @@ $ git config --global user.email sss4920@naver.com
 
 #### 레포지터리 생성
 
-![1569659915017](C:\Users\sss49\Desktop\어울림\img\1569659915017.png)
+![1569659915017](\img\1569659915017.png)
 
 오른쪽에 초록색 new버튼을 누르고 레포지터리를 만들어줍시다. 
 
