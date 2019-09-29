@@ -21,15 +21,16 @@ $ git config --global user.email sss4920@naver.com
 
 `$ git config --list`해주면 맨밑에 자신의 이름과 이메일이 나와있으면 성공!
 
-![캡처2](C:\Users\sss49\Desktop\어울림\img\캡처2.JPG)
+![캡처2](https://user-images.githubusercontent.com/49307946/65829096-901ccd80-e2dc-11e9-8c1e-f6a8f67a5132.JPG)
 
 #### 레포지터리 생성
 
-![1569659915017](\img\1569659915017.png)
+![1569659915017](https://user-images.githubusercontent.com/49307946/65829078-6d8ab480-e2dc-11e9-97ef-b95e8d769129.png)
 
 오른쪽에 초록색 new버튼을 누르고 레포지터리를 만들어줍시다. 
 
-![1569660054175](C:\Users\sss49\Desktop\어울림\img\1569660054175.png)
+![1569660054175](https://user-images.githubusercontent.com/49307946/65829110-b3477d00-e2dc-11e9-98a6-87887589fdc6.png)
+
 
 readme파일을 얘기하기전에 pull과 push의 개념을 얘기해보도록 하겠습니다.
 
@@ -41,7 +42,8 @@ readme파일을 얘기하기전에 pull과 push의 개념을 얘기해보도록 
 
 readme파일은 프로젝트의 목적과 협업방식등을 기록하는 문서인데 이를 생성하기 버튼을 누르면 우리 로컬에선 없는 새 파일이 생성됩니다. 한마디로 우리 컴퓨터에는 빈폴더 밖에 없는데 저장소의 폴더에는 파일 하나가 있는 것입니다. 따라서 로컬로 그 파일을 먼저 옮겨와 저장소와 로컬의 상태를 같게 해준다음 작업을 하는게 충돌나지 않게 해주는 좋은 방법이기 때문에 우리는 pull을 프로젝트 시작 전 계속 해주는 버릇을 들여야합니다.
 
-![1569660838955](C:\Users\sss49\Desktop\어울림\img\1569660838955.png)
+![1569660838955](https://user-images.githubusercontent.com/49307946/65829125-c9edd400-e2dc-11e9-8222-c8ee6a948791.png)
+
 
 레포지터리를 생성하고 나면 이런것이 보일텐데요. url부분을 복사해서 이따가 써먹도록합시다.
 
